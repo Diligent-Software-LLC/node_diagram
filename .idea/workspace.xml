@@ -26,12 +26,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3914cdf1-7ff5-4a0d-a271-cd4559fd3a02" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/node_diagram.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/node_diagram.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Changelog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="306" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/coverage" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588362065294</updated>
-      <workItem from="1588362067011" duration="1963000" />
+      <workItem from="1588362067011" duration="2289000" />
     </task>
     <task id="LOCAL-00001" summary="Setup Complete&#10;&#10;Added version.rb. Added Gem Specification. Added README.md.">
       <created>1588363940084</created>
@@ -110,10 +118,17 @@
       <option name="project" value="LOCAL" />
       <updated>1588363940084</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Development Complete&#10;&#10;'require'd diagram, node, node_diagram_int, and node_diagram_impl. Formatted NodeDiagramLibraryTest. Fixed 'require' statement in test_helper.rb.">
+      <created>1588364260619</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588364260619</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: Diagram Subsystem:{ Node } Component: Library Sprints: 1 State: Development" />
+        <option name="defaultSearch" value="project: Diagram Subsystem:{ Node } Component: Library Sprints: 1 State: { Prepare Deployment }" />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -121,9 +136,21 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setup Complete&#10;&#10;Added version.rb. Added Gem Specification. Added README.md." />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Added version.rb. Added Gem Specification. Added README.md." />
+    <MESSAGE value="Development Complete&#10;&#10;'require'd diagram, node, node_diagram_int, and node_diagram_impl. Formatted NodeDiagramLibraryTest. Fixed 'require' statement in test_helper.rb." />
+    <option name="LAST_COMMIT_MESSAGE" value="Development Complete&#10;&#10;'require'd diagram, node, node_diagram_int, and node_diagram_impl. Formatted NodeDiagramLibraryTest. Fixed 'require' statement in test_helper.rb." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -131,10 +158,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="438" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1588362105322" />
-    <state x="126" y="75" width="1452" height="832" key="CommitChangelistDialog2" timestamp="1588363939790">
+    <state x="126" y="75" width="1452" height="832" key="CommitChangelistDialog2" timestamp="1588364260394">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="126" y="75" width="1452" height="832" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1588363939790" />
+    <state x="126" y="75" width="1452" height="832" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1588364260394" />
     <state width="1545" height="269" key="GridCell.Tab.0.bottom" timestamp="1588364091347">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -155,10 +182,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="430" y="235" width="816" height="550" key="find.popup/0.23.1680.975@0.23.1680.975" timestamp="1588362912504" />
-    <state x="503" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1588364046613">
+    <state x="503" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1588364331131">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="503" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1588364046613" />
+    <state x="503" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1588364331131" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/node_diagram@NodeDiagramLibraryTest.rcov" NAME="NodeDiagramLibraryTest Coverage Results" MODIFIED="1588364087827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="node_diagram" />
