@@ -46,7 +46,7 @@ available at $1, $2, $4, $8, and $16. Greatly appreciated.}
 
   # Gem specific runtime dependencies.
   spec.add_runtime_dependency 'diagram', '~> 0'
-  spec.add_runtime_dependency 'node', '~> 4'
+  spec.add_runtime_dependency 'node', '~> 5'
   spec.add_runtime_dependency 'node_diagram_int', '~> 0'
   spec.add_runtime_dependency 'node_diagram_impl', '~> 0'
 

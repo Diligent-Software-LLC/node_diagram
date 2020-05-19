@@ -1,15 +1,15 @@
 # node_diagram [![Gem Version](https://badge.fury.io/rb/node_diagram.svg)](https://badge.fury.io/rb/node_diagram) ![Gem](https://img.shields.io/gem/dt/node_diagram) [![Build Status](https://travis-ci.com/Diligent-Software-LLC/node_diagram.svg?branch=master)](https://travis-ci.com/Diligent-Software-LLC/node_diagram)
 
-A NodeDiagram library. Organizes the NodeDiagram components.
+A NodeDiagram library. Organizes NodeDiagram's components.
 
 ## Installation
 
 - Refer Library's
-[Packages](https://docs.diligentsoftware.org/diagram-1/packages).
+[Packages](https://docs.diligentsoftware.org/diagram-1/node/packages#library).
 
 ## Documentation
 
-- Refer the Library 
+- Refer Library's 
 [Homepage](https://docs.diligentsoftware.org/diagram-1/node).
 
 ## Contributing
