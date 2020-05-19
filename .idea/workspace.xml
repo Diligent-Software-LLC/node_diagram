@@ -193,10 +193,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="438" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1588362105322" />
-    <state x="61" y="48" width="1551" height="903" key="CommitChangelistDialog2" timestamp="1589903227664">
+    <state x="61" y="48" width="1551" height="903" key="CommitChangelistDialog2" timestamp="1589903511484">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="61" y="48" width="1551" height="903" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1589903227664" />
+    <state x="61" y="48" width="1551" height="903" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1589903511484" />
     <state width="1545" height="269" key="GridCell.Tab.0.bottom" timestamp="1588365423063">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -225,10 +225,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="503" y="235" width="670" height="675" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1588365420250" />
-    <state x="503" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1589903450643">
+    <state x="503" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1589903545202">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="503" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1589903450643" />
+    <state x="503" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1589903545202" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/node_diagram@NodeDiagramLibraryTest.rcov" NAME="NodeDiagramLibraryTest Coverage Results" MODIFIED="1588364087827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="node_diagram" />

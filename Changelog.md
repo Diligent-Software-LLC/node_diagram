@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.0.0, 2020-05-19
+
+### Added
+
+- Test coverage.
+
+### Edited
+
+- node dependency. Bumped Major Version.
+- README.md's repository description, Installation text, and Documentation text.
+
+### Fixed
+
 ## v0.1.0, 2020-05-01
 
 ### Added
