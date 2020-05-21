@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.0.1, 2020-05-21
+
+### Added
+
+- diagram and node development dependencies.
+
+### Edited
+
+- Deleted diagram and node runtime dependencies.
+- Deleted node and diagram 'require'ments.
+
+### Fixed
+
 ## v1.0.0, 2020-05-19
 
 ### Added
