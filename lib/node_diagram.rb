@@ -2,8 +2,6 @@
 # under the GNU General Public License, Version 3. Refer LICENSE.txt.
 
 require_relative "node_diagram/version"
-require 'diagram'
-require 'node'
 require 'node_diagram_int'
 require 'node_diagram_impl'
 
