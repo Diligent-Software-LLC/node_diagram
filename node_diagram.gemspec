@@ -43,11 +43,11 @@ available at $1, $2, $4, $8, and $16. Greatly appreciated.}
   # Development and testing dependencies.
   spec.add_development_dependency 'bundler', '~> 2.1'
   spec.add_development_dependency 'simplecov', '~> 0'
-  spec.add_development_dependency 'node', '~> 4'
-  spec.add_development_dependency 'diagram', '~> 0'
+  spec.add_development_dependency 'diagram_comp', '~> 1'
+  spec.add_development_dependency 'linked_list_comp', '~> 1'
 
   # Gem specific runtime dependencies.
   spec.add_runtime_dependency 'node_diagram_int', '~> 0'
-  spec.add_runtime_dependency 'node_diagram_impl', '~> 0'
+  spec.add_runtime_dependency 'node_diagram_impl', '~> 1'
 
 end

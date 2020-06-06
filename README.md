@@ -4,7 +4,7 @@ A NodeDiagram library. Organizes NodeDiagram's components.
 
 ## Installation
 
-- Refer Library's
+- Refer Library's 
 [Packages](https://docs.diligentsoftware.org/diagram-1/node/packages#library).
 
 ## Documentation
